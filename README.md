@@ -17,3 +17,7 @@ This repository will be updated if I find something interesting, so stay tuned! 
 <h4> Neural network from scratch </h4>
 
 :page_with_curl: ["Understanding LSTM Networks"](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+
+<h2> Frontend </h2>
+
+:page_with_curl: ["Can I use"- up-to-date browser support tables for support of front-end web technologies](https://caniuse.com/)
