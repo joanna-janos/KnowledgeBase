@@ -35,3 +35,5 @@ This repository will be updated if I find something interesting, so stay tuned! 
 <h2> Processes & best practises </h2>
 
 :page_with_curl: ["How to Do Code Reviews Like a Human (Part One)"](https://mtlynch.io/human-code-reviews-1/)
+
+:page_with_curl: ["Job promotion is a trap"](https://sizovs.net/2019/01/13/job-promotion-is-a-trap/)
