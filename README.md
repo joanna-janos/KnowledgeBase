@@ -6,6 +6,10 @@ I have collected many links to interesting articles and videos. With time it beg
 
 This repository will be updated if I find something interesting, so stay tuned! :tada:
 
+<h2> Python</h2>
+
+:page_with_curl: ["NumPy Illustrated: The Visual Guide to NumPy"](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
+
 <h2> Machine learning & deep learning</h2>
 
 <h4> Basics </h4>
@@ -27,10 +31,6 @@ This repository will be updated if I find something interesting, so stay tuned! 
 
 <h2> Data Science</h2>
 
-<h4> Mathematics</h4>
-
-:page_with_curl: [Understanding and Applying Benford’s Law](https://www.isaca.org/resources/isaca-journal/past-issues/2011/understanding-and-applying-benfords-law)
-
 <h4> Books </h4>
 
 :page_with_curl: [“The Visual Display of Quantitative Information” by Edward R. Tufte](http://faculty.salisbury.edu/~jtanderson/teaching/cosc311/fa20/files/tufte.pdf)
@@ -45,13 +45,15 @@ This repository will be updated if I find something interesting, so stay tuned! 
 
 :chart_with_upwards_trend: ["pudding.cool"](https://pudding.cool/)
 
-<h2> Frontend </h2>
 
-:page_with_curl: ["Can I use"- up-to-date browser support tables for support of front-end web technologies](https://caniuse.com/)
+<h2> Math</h2>
 
-<h2> Projects </h2>
+:page_with_curl: [Understanding and Applying Benford’s Law](https://www.isaca.org/resources/isaca-journal/past-issues/2011/understanding-and-applying-benfords-law)
 
-["How music evolved: Billboard's Hot 100, 1958-2016"](https://pudding.cool/2017/03/music-history/)
+:page_with_curl: [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
+
+:page_with_curl: [Understanding the Levenshtein Distance Equation for Beginners](https://medium.com/@ethannam/understanding-the-levenshtein-distance-equation-for-beginners-c4285a5604f0)
+
 
 <h2> Processes & best practises </h2>
 
@@ -66,3 +68,12 @@ This repository will be updated if I find something interesting, so stay tuned! 
 :page_with_curl: [Logging standards](https://theagileadmin.com/2010/08/20/logging-for-success/)
 
 :page_with_curl: [Date formatting](https://docs.oracle.com/javase/8/docs/api/java/text/SimpleDateFormat.html)
+
+
+<h2> Frontend </h2>
+
+:page_with_curl: ["Can I use"- up-to-date browser support tables for support of front-end web technologies](https://caniuse.com/)
+
+<h2> Projects </h2>
+
+["How music evolved: Billboard's Hot 100, 1958-2016"](https://pudding.cool/2017/03/music-history/)
